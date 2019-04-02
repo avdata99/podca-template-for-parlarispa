@@ -1,2 +1,4 @@
-# podca-template-for-parlarispa
-Template para podcast en Parlarispa
+# Template PODCA
+
+Basado en [Podca](https://colorlib.com/wp/template/podca/).  
+
